@@ -1,4 +1,4 @@
-const pokemons = [
+var pokemons = [
 {
 	"id": 1,
 	"num": "001",
