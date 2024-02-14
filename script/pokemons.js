@@ -1,4 +1,4 @@
-var pokemons = [
+const pokemons = [
 {
 	"id": 1,
 	"num": "001",
@@ -4618,3 +4618,5 @@ var pokemons = [
 	]
 }
 ];
+
+window.pokemons = pokemons;
